@@ -29,6 +29,11 @@ h1 {
   background-color: #1b1b32;
 }
 
+.seccion-clara {
+  color: black;
+  background-color: white;
+}
+
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
@@ -72,6 +77,27 @@ h1 {
 .sobre-mi .contenedor {
   max-width: 600px;
   text-align: center;
+}
+
+/* Experiencia */
+
+.experiencia {
+  padding: 40px 40px 60px 40px;
+}
+
+
+  .experiencia i{
+    font-size: 2.5rem;
+    color: #7ade30;
+    background-color: #0a0a23;
+    padding: 8px 19px;
+    border-radius: 50%;
+  }
+
+.experiencia-titulo {
+  font-size: 25px;
+  font-weight: bold;
+  margin: 10px 0;
 }
 
 @media screen and (max-width: 767px) {
