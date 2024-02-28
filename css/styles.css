@@ -148,6 +148,14 @@ h1 {
 .proyectos-recientes {
   padding: 40px;
 }
+.proyectos-recientes video {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  display: block;
+  transition: all 0.2s ease;
+}
 .proyectos-recientes img {
   height: 100%;
   width: 100%;
