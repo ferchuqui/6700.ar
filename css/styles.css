@@ -188,6 +188,9 @@ h1 {
 .proyecto:hover img {
   opacity: 0.2;
 }
+.proyecto:hover video {
+  opacity: 0.2;
+}
 
 .proyecto:hover .overlay {
   opacity: 1;
